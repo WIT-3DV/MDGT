@@ -5,14 +5,11 @@
 Please use the following command for installation.
 
 ```bash
-# It is recommended to create a new environment
 conda create -n geotransformer python==3.8
 conda activate geotransformer
 
-# [Optional] If you are using CUDA 11.0 or newer, please install `torch==1.12.0+cu116`
 pip install torch==1.12.0+cu116 -f https://download.pytorch.org/whl/torch_stable.html
 
-# Install packages and other dependencies
 pip install -r requirements.txt
 python setup.py build develop
 ```
