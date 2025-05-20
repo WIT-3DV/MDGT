@@ -1,1 +1,1 @@
-# Marker and Dynamic Geometric aware Transformer for Fast and Robust Point Cloud Registration
+# Marker and Dynamic Geometric Aware Transformer for Robust Point Cloud Registration
